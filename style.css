@@ -46,3 +46,8 @@ body {
   background-color: green;
   border-bottom-right-radius: 100%;
 }
+
+.selected {
+  opacity: 0.9;
+  box-shadow: 0 0 5em rgb(0, 0, 0);
+}
